@@ -1,0 +1,14 @@
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\bin\Debug\net10.0\FinalExamTigley.exe
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\bin\Debug\net10.0\FinalExamTigley.deps.json
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\bin\Debug\net10.0\FinalExamTigley.runtimeconfig.json
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\bin\Debug\net10.0\FinalExamTigley.dll
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\bin\Debug\net10.0\FinalExamTigley.pdb
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.AssemblyInfoInputs.cache
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.AssemblyInfo.cs
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.csproj.CoreCompileInputs.cache
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.dll
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\refint\FinalExamTigley.dll
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.pdb
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\FinalExamTigley.genruntimeconfig.cache
+C:\Users\tudec\OneDrive\Documents\APPSDEV FINAL\FinalExamTigley\FinalExamTigley\obj\Debug\net10.0\ref\FinalExamTigley.dll
